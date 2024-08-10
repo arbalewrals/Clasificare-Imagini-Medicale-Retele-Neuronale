@@ -1,4 +1,5 @@
 # Clasificare-Imagini-Medicale-Retele-Neuronale
+Realizat în echipă cu Radu-Iulian Chircă.
 ![Slide1](https://github.com/user-attachments/assets/80d6b392-e023-4055-bc4d-4b931b10c68d)
 ![Slide3](https://github.com/user-attachments/assets/21107541-05ae-45b6-bf95-3c4ab9b77d3b)
 ![Slide4](https://github.com/user-attachments/assets/dfe6641a-23df-45ea-b400-4ecbccab84fd)
